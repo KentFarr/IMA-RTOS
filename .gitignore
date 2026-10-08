@@ -1,0 +1,10 @@
+# build output
+build/
+
+# editor and OS clutter
+.vscode/
+*.swp
+.DS_Store
+
+# local assistant instructions
+CLAUDE.md
