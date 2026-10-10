@@ -8,3 +8,7 @@ build/
 
 # local assistant instructions
 CLAUDE.md
+
+# private drafts until there is a public-facing version
+docs/*
+!docs/misra-deviations.md
